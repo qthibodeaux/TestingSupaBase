@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import System from './System';
+import Crown from './Crown';
 
 function App() {
   return (
@@ -18,7 +18,7 @@ function App() {
         >
           Learn React
         </a>
-        <System />
+        <Crown />
       </header>
     </div>
   );
